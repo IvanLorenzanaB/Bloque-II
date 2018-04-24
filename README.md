@@ -6,4 +6,4 @@
 4. *Ricardo Valadez Leal*
 
 
-[Wiki](LeMemes)
+[Wiki](https://github.com/IvanLorenzanaB/Bloque-II/wiki/LeMemes)
