@@ -25,3 +25,5 @@ Una crítica gráfica que puede ser tanto una referencia a la actualidad como un
 Son utilizados por todo tipo de públicos independientemente de su edad.
 
 ![](https://www.hoyreka.com/wp-content/uploads/2015/01/keep-calm3png.png)
+
+[Volver al menu](CoolMeme.md)
