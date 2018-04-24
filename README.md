@@ -5,4 +5,4 @@
 3. *Arturo Martinez Gonzalez Martinez*
 4. *Ricardo Valadez Leal*
 
-![Memes](MEMES.MD)
+![WIki](LeMemes)
