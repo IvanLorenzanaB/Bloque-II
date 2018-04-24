@@ -9,4 +9,6 @@
 4. *Ricardo Valadez Leal*
 
 
-[Wiki](https://github.com/IvanLorenzanaB/Bloque-II/wiki/LeMemes)
+[Wiki](https://github.com/IvanLorenzanaB/Bloque-II/wiki/LeMemes)  
+
+[Tipos de memes](CoolMeme)
