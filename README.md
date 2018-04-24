@@ -8,7 +8,8 @@
 3. *Arturo Martinez Gonzalez Martinez*
 4. *Ricardo Valadez Leal*
 
+![](http://cdn.eldeforma.com/wp-content/uploads/2018/04/zuckerbergagua.jpg)
 
 [Wiki](https://github.com/IvanLorenzanaB/Bloque-II/wiki/LeMemes)  
 
-[Tipos de memes](CoolMeme)
+[Tipos de memes](CoolMeme.md)
