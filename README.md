@@ -4,3 +4,6 @@
 2. *Ricardo Laurean Martinez*
 3. *Arturo Martinez Gonzalez Martinez*
 4. *Ricardo Valadez Leal*
+
+![KANBAN](Kanban)
+
